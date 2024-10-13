@@ -5,4 +5,4 @@ Flask==0.12.3
 chatterbot==0.8.4
 SQLAlchemy==1.2.19
 gunicorn==19.10.0
-PyYAML == 5.4.1
+PyYAML == 6.0
