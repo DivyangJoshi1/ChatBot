@@ -6,3 +6,4 @@ chatterbot==0.8.4
 SQLAlchemy==1.2.19
 gunicorn==19.10.0
 Jinja2==3.0.3
+Werkzeug==0.16.1
